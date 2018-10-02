@@ -5,7 +5,7 @@
   <title>TA5</title>
 </head>
 <body>
-  <form action="proses.php" method="post">
+  <form action="prosesLogin.php" method="post">
     <table>
       <tr>
         <td>Username</td>
@@ -20,7 +20,7 @@
         <td><input type="password" name="password"></td>
       </tr>
       <tr>
-        <td><input type="submit" name="submit" value="login"></td>
+        <td><input type="submit" name="login" value="login"></td>
       </tr>
     </table>
   </form>

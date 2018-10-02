@@ -5,7 +5,7 @@
 
 </head>
 <body>
-	<form action="prosesupload.php" method="POST" enctype="multipart/form-data">
+	<form action="prosesregis.php" method="POST" enctype="multipart/form-data">
 		<table>
 			<tr>
 				<td>NIM</td>
